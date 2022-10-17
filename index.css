@@ -25,3 +25,7 @@ section {
 .d-inline {
     display: inline;
 }
+
+nav > ul {
+    list-style: none;
+}
