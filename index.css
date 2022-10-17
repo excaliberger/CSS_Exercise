@@ -9,11 +9,14 @@ main {
     margin-bottom: 24px;
     margin-left: auto;
     margin-right: auto;
+ 
 }
 
 section {
     margin-top: 24px;
     margin-bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;
     padding: 16px;
 }
 
@@ -33,4 +36,12 @@ nav > ul {
 body {
     background-color: #222;
     color: #eee;
+}
+
+#avatar {
+    width: 100px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 32px;
+    margin-bottom: 32px;
 }
